@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siva Sai Gopal Mandru</h1>
 
 <h3 align="center">
-Aspiring Data Analyst | SQL • Excel • Power BI • Python
+Data Analyst | SQL • Excel • Power BI • Python
 </h3>
 
 <p align="center">
