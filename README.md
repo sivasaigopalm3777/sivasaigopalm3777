@@ -12,7 +12,7 @@ Data Analyst | SQL • Excel • Power BI • Python
 
 ## 👨‍💻 About Me
 
-- 📊 Aspiring Data Analyst passionate about data-driven decision making
+- 📊 Data Analyst passionate about data-driven decision making
 - 📚 Currently learning Advanced SQL & Python for Data Analysis
 - 💡 Skilled in SQL, Excel, Power BI, and Python
 - 📈 Interested in Business Intelligence & Data Visualization
