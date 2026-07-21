@@ -16,7 +16,7 @@ Data Analyst | SQL • Excel • Power BI • Python
 - 📚 Currently learning Advanced SQL & Python for Data Analysis
 - 💡 Skilled in SQL, Excel, Power BI, and Python
 - 📈 Interested in Business Intelligence & Data Visualization
-- 🎯 Goal: Becoming a professional Data Analyst
+- 🎯 Goal: Open to Data Analyst/Business Intelligence roles
 - ⚡ Fun fact: I enjoy finding insights hidden inside data
 
 ---
