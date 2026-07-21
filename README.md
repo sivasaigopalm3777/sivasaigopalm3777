@@ -52,6 +52,24 @@ Aspiring Data Analyst | SQL • Excel • Power BI • Python
 
 # 🚀 Projects
 
+## 🚆 IRCTC Railway Business Intelligence
+
+📊 End-to-End Railway Data Analytics Project using SQL, Excel & Power BI
+
+### 🔹 Key Highlights
+
+- Revenue & Booking Analysis
+- Passenger Behavior Analysis
+- Route & Operational Performance
+- Interactive Power BI Dashboards
+- KPI Reporting & Business Intelligence
+- Actionable Business Recommendations
+
+🔗 Project Link:
+https://github.com/sivasaigopalm3777/IRCTC-Railway-Business-Intelligence
+
+---
+
 ## 💳 Credit Card Customer Churn Analysis
 
 📊 End-to-End Data Analytics Project using SQL, Excel & Power BI
